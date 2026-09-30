@@ -1,0 +1,7 @@
+certifi
+encodec
+torch
+torchaudio
+numpy
+soundfile
+tqdm
